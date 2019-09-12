@@ -1,0 +1,11 @@
+import turtle
+turtle.fd(78)
+turtle.left(145)
+turtle.fd(78)
+turtle.left(145)
+turtle.fd(78)
+turtle.left(145)
+turtle.fd(78)
+turtle.left(145)
+turtle.fd(78)
+turtle.exitonclick()
