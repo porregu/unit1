@@ -1,3 +1,6 @@
+# by Guillermo Porres
+# september 17,2019
+# this program makes 4 octagons that dosent touch and making some functions
 import turtle
 def octagon():
     for x in range(8):
@@ -7,7 +10,6 @@ def goto(x,y):# this function makes mobe the pen to a coordenate without showing
     turtle.up()
     turtle.goto(x,y)
     turtle.down()
-
 turtle.fillcolor("purple")
 turtle.begin_fill()
 octagon()
